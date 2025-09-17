@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import path
 st.title('dashboard de precios')
 
-csv_path = path('data) / 'precios.csv'
+csv_path = path('data') / 'precios.csv'
 
 df = pd.read_csv(csv_path, sep=';')
 
