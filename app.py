@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-from pathlib import path
+from pathlib import Path
 st.title('dashboard de precios')
 
-csv_path = path('data') / 'precios.csv'
+csv_path = Path('data') / 'precios.csv'
 
 df = pd.read_csv(csv_path, sep=';')
 
