@@ -1,0 +1,116 @@
+tienda;nombre;precio;link;fecha;garantia
+booksToScrape;A Light in the Attic;51.77;https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html;2025-09-17;
+booksToScrape;Tipping the Velvet;53.74;https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html;2025-09-17;
+booksToScrape;Soumission;50.10;https://books.toscrape.com/catalogue/soumission_998/index.html;2025-09-17;
+booksToScrape;Sharp Objects;47.82;https://books.toscrape.com/catalogue/sharp-objects_997/index.html;2025-09-17;
+booksToScrape;Sapiens: A Brief History of Humankind;54.23;https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html;2025-09-17;
+booksToScrape;The Requiem Red;22.65;https://books.toscrape.com/catalogue/the-requiem-red_995/index.html;2025-09-17;
+booksToScrape;The Dirty Little Secrets of Getting Your Dream Job;33.34;https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html;2025-09-17;
+booksToScrape;The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull;17.93;https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html;2025-09-17;
+booksToScrape;The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics;22.60;https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html;2025-09-17;
+booksToScrape;The Black Maria;52.15;https://books.toscrape.com/catalogue/the-black-maria_991/index.html;2025-09-17;
+booksToScrape;Starving Hearts (Triangular Trade Trilogy, #1);13.99;https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html;2025-09-17;
+booksToScrape;Shakespeare's Sonnets;20.66;https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html;2025-09-17;
+booksToScrape;Set Me Free;17.46;https://books.toscrape.com/catalogue/set-me-free_988/index.html;2025-09-17;
+booksToScrape;Scott Pilgrim's Precious Little Life (Scott Pilgrim #1);52.29;https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html;2025-09-17;
+booksToScrape;Rip it Up and Start Again;35.02;https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html;2025-09-17;
+booksToScrape;Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991;57.25;https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html;2025-09-17;
+booksToScrape;Olio;23.88;https://books.toscrape.com/catalogue/olio_984/index.html;2025-09-17;
+booksToScrape;Mesaerion: The Best Science Fiction Stories 1800-1849;37.59;https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html;2025-09-17;
+booksToScrape;Libertarianism for Beginners;51.33;https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html;2025-09-17;
+booksToScrape;It's Only the Himalayas;45.17;https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html;2025-09-17;
+DataImport;MONITOR DELL 22″ LCD (VARIOS MODELOS) VGA-DVI;"RD$2,750.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-22-lcd-ref-a-mod-mixto-vga-dvi-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR SAMSUNG 22″ LCD GRADO B S22B420/S22A450BW VGA-DVI;"RD$2,895.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-samsung-s22b420-22-lcd-vga-dvi-semi-nuevo-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 23″ LCD GRADO A LA2306X/LV2311 VGA-DP;"RD$3,950.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-23-lcd-ref-a-mod-la2306x-lv2311-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR SAMSUNG 22″ LCD GRADO B (MIXTOS) VGA-DVI;"RD$4,250.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-22-samsung-mixto-vga-dvi-semi-nuevo-grado-b/;25-09-17;180 días de garantia
+DataImport;MONITOR DAHUA 19″ LED DHI-LM19-A202F;"RD$4,250.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-19-led-dhi-lm19-a202f/;25-09-17;180 días de garantia
+DataImport;MONITOR SAMSUNG 22″ LCD GRADO A (MIXTOS) VGA-DVI;"RD$4,450.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-samsung-22-lcd-ref-a-mod-mixto-vga-dvi-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR 23″ GRADO C (MIXTOS) HDMI-VGA;"RD$4,550.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-23-mixto-hdmi-vga-semi-nuevo-grado-c/;25-09-17;90 días de garantia
+DataImport;MONITOR SAMSUNG 22″ LCD GRADO A S22B450BW VGA-DVI;"RD$4,550.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-samsung-22-s22b450bw-vga-dvi-semi-nuevo-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR 24″ LCD GRADO B (MIXTOS) VGA;"RD$4,750.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-24-mixto-vga-semi-nuevo-grado-b/;25-09-17;90 días de garantia
+DataImport;MONITOR DELL 24″ LCD GRADO B P2414H VGA-DP;"RD$4,850.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-24-dell-e2414ht-semi-nuevo-clase-b/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 22″ LCD GRADO A P223 HDMI-VGA-DP;"RD$4,895.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-22-lcd-ref-a-mod-p223-hdmi-vga-display-port-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 22″ LCD GRADO B P2217/P2217H/P2218H HDMI-VGA-DP;"RD$4,950.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-p2217-22-lcd-hdmi-vga-display-port-semi-nuevo-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 22″ LCD GRADO B P2213T/P2210T VGA-DP;"RD$4,950.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-22-lcd-ref-b-mod-p2213t-p2210t-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 23″ LCD GRADO A P232 VGA-DP;"RD$4,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-23-lcd-ref-a-mod-p232-hdmi-vga-display-port-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR LENOVO 24″ LCD (SEMI-NUEVO) (Mod.T24I-10)(Grado A/B) HDMI-VGA-DP CAJA MARRON;"RD$4,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-lenovo-24-lcd-semi-nuevo-mod-t24i-10grado-a-b-hdmi-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 22″ LCD GRADO A LA2206X/ LA2205WG VGA-DVI-DP;"RD$5,250.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-la2206x-22-lcd-dvi-display-port-semi-nuevo-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 23″ LCD GRADO A P2317H HDMI-VGA-DP;"RD$5,250.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-23-lcd-ref-a-mod-p2317h-hdmi-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;Monitor HP 23″ Mod. LA2306X DVI – VGA LCD WIDSCREEN Ref. B;"RD$5,350.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-23-hp-la2306x-widescreean-vga-semi-nuevo-clase-b/;25-09-17;180 días de garantia
+DataImport;Monitor HP 23″ Mod. LA2306X DVI – VGA LCD WIDSCREEN Ref;"RD$5,500.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-lcd-23-hp-la2306x-dvi-vga-usb-widescreean-caja-marron-rf/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 23″ LCD GRADO B E232 HDMI-VGA-DP;"RD$5,950.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-e232-23-lcd-hdmi-vga-display-port-caja-marron-semi-nuevo/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 23″ LCD GRADO A E2316H VGA-DP;"RD$6,100.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-23-lcd-ref-a-mod-e2316h-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 24″ LCD GRADO B P2417H HDMI-VGA-DP;"RD$6,250.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-24-lcd-ref-b-mod-p2417h-hdmi-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 24″ LCD GRADO B U2412MC VGA-DVI-DP;"RD$6,450.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-24-lcd-ref-b-mod-u2412mc-vga-dvi-display-port-caja-marron/;25-09-17;180 días de garantia
+DataImport;Monitor DELL 23″ (E2318H) LCD Semi Nuevo (Grado B) VGA en Caja Marrón;"RD$6,500.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-23-e2318h-lcd-grado-b-vga-en-caja-marron/;25-09-17;90 días de garantia
+DataImport;MONITOR 24″ GRADO B SAMSUNG S24A460B/S24C450/S24E450;"RD$6,550.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-22-samsung-b2240-2243qw-2243bwx-b2230-lcd-caja-marron-semi-nuevo/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 24″ LCD GRAD B E242 HDMI-VGA-DVI-DP;"RD$6,700.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-24-lcd-ref-b-mod-e242-hdmi-vga-dvi-d-led-display-port-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR 24″ HP LA2405WG/E241I/LA2405X GRADO B;"RD$6,800.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-24-ref-b-la2405wg-e241i-la2405x-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR LCD 24″ HP GRADO A LA2405WG;"RD$6,850.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-24-hp-la2405wg-lcd-caja-marron-semi-nuevo/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 24″ GRADO A E240 HDMI-VGA-DP;"RD$6,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-hp-24-lcd-ref-a-mod-e240-hdmi-vga-display-port-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR HP 24″ LCD GRADO B E240 HDMI-VGA-DP;"RD$6,995.00
+Impuestos incluidos";https://dataimport.com/tienda/producto-12/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 24″ LCD GRADO A P2417H HDMI-VGA-DP;"RD$7,550.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-24-lcd-ref-a-mod-p2417h-hdmi-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;Monitor Dell 22″ Pro LCD (Mod. E2225HSM) (SEMI-NUEVO);"RD$7,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-22-pro-lcd-mod-e2225hsm-semi-nuevo/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 27″ LCD (SEMI-NUEVO) (Mod.P2722H)(Grado A/B) HDMI-VGA-DP CAJA MARRON;"RD$9,650.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-27-lcd-semi-nuevo-mod-p2722hgrado-a-b-hdmi-vga-dp-caja-marron/;25-09-17;180 días de garantia
+DataImport;MONITOR DAHUA 24″ E-LED DHI-LM24-E231;"RD$9,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-24-gaming-e-led-mod-dhi-lm24-e231-nuevo-165hz-1msod-fast-ips-hdmi1-4x1dp1-2/;25-09-17;180 días de garantia
+DataImport;Monitor Dell 22″ Pro Plus LCD (Mod. P2225H);"RD$9,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-22-pro-plus-lcd-mod-p2225h/;25-09-17;365 días de garantia
+DataImport;MONITOR VIEWSONIC 24¨ VX2418-P-MHD HDMI-VGA;"RD$10,500.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-gaming-viewsonic-24%c2%a8-mod-vx2418-p-mhd-165hz-1ms-hdmi-vga/;25-09-17;180 días de garantia
+DataImport;MONITOR DELL 24″ LCD E2423H REF. VGA-DP;"RD$10,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dell-24-lcd-mod-e2423h-ref-vga-dp-caja-dell/;25-09-17;365 días de garantia
+DataImport;MONITOR DAHUA 27″ E-LED DHI-LM27-E231-165mhZ;"RD$11,500.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-27-e-led-dhi-lm27-e231-165mhz/;25-09-17;180 días de garantia
+DataImport;MONITOR DAHUA 27″ E-LED DHI-LM27-E231;"RD$11,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-27-gaming-e-led-mod-dhi-lm27-e231-nuevo-165hz-1msod-fast-ips-hdmi1-4x1/;25-09-17;180 días de garantia
+DataImport;MONITOR DAHUA CURVO 30″ E-LEDDHI-LM30-E330CA;"RD$17,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-30-gaming-e-led-mod-dhi-lm30-e330ca-nuevo-r1500-curvo-200hz-1msod/;25-09-17;180 días de garantia
+DataImport;MONITOR DAHUA 32″ DHI-LM32-E230CN;"RD$18,995.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-32-dhi-lm32-e230cn/;25-09-17;180 días de garantia
+DataImport;MONITOR DAHUA 34″ DHI-LM34-E330C;"RD$22,495.00
+Impuestos incluidos";https://dataimport.com/tienda/monitor-dahua-34-dhi-lm34-e330c/;25-09-17;180 días de garantia
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
+DataImport;;;;25-09-17;
