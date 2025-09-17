@@ -1,9 +1,11 @@
 import streamlit as st
 import pandas as pd
-
+from pathlib import path
 st.title('dashboard de precios')
 
-df = pd.read_csv('data\precios.csv', sep=';')
+csv_path = path('data) / 'precios.csv"
+
+df = pd.read_csv(csv_path, sep=';')
 
 st.dataframe(df)
 
